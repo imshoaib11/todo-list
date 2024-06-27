@@ -1,0 +1,49 @@
+.heading{
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+}
+
+.ip-width{
+  width: 25%;
+  display: inline-flex;
+}
+
+.ip-margin{
+    margin-left: 20px;
+}
+
+.content{
+  text-align:right;
+}
+
+.card{
+  display: flex;
+}
+
+.select{
+  width: 25%;
+} 
+
+.btn-width{
+  width: 25%;
+  margin: 2px 2px 2px 2px;
+}
+
+.completed-background {
+  background-color:  rgb(6, 148, 124);
+  color: white;
+  border: 1px solid rgb(116, 199, 185);
+}
+
+.not-completed-background {
+  background-color:palevioletred;
+  color: white;
+  border: 1px solid rgb(245, 177, 200);
+}
+
+.select-box{
+  border: none;
+}
